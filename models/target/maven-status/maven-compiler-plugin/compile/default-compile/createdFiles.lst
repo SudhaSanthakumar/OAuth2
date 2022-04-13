@@ -1,0 +1,6 @@
+com\us\models\App.class
+com\us\models\util\Utility.class
+com\us\models\user\User.class
+com\us\models\client\AppClient.class
+com\us\models\user\Role.class
+com\us\models\user\Permission.class
